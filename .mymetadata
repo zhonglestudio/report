@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JasperReports"
+  id="myeclipse.1477899469718"
+  context-root="/JasperReports"
+  j2ee-spec="6.0"
+  archive="JasperReports.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

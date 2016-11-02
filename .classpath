@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="src/main/webapp/WEB-INF/classes" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/groovy-all-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/iTextAsian-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/iTextAsianCmaps-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/jasperreports-3.7.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/jcommon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/diye/Downloads/jasper-jarbao (1)/jasper-jarbao/jfreechart-1.0.3.jar"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>
