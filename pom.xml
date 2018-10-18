@@ -11,7 +11,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<cxf.version>2.4.2</cxf.version>
-		<spring.version>3.0.2.RELEASE</spring.version>
+		<spring.version>4.3.16.RELEASE</spring.version>
 		<jdbc.driver.groupId>com.oracle</jdbc.driver.groupId>
 		<jdbc.driver.artifactId>ojdbc14</jdbc.driver.artifactId>
 		<jdbc.driver.version>10.1.0.2.0</jdbc.driver.version>
